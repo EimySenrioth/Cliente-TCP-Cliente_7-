@@ -1,0 +1,18 @@
+# Compilar todos
+javac TCP/*.java
+
+# Ejecutar el explorador de direcciones
+java TCP.InetAddress_6
+
+# Ejecutar el cliente de múltiples mensajes
+java TCP.Cliente_7Multimensaje
+
+#Ejecutar cliente 7
+java TCP.Cliente_7
+
+
+Ver en powershell
+hostname
+ipconfig
+ecribir en el buscador
+google.com
